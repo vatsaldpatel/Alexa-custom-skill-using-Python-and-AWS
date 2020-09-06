@@ -4,4 +4,4 @@ In this example, I have created a custom **Alexa** skill using python and compon
 
 #### This is a demonstration video about what this code does
 
-[![Video](http://img.youtube.com/vi/https://youtu.be/WbIyr3hq5Ps/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/WbIyr3hq5Ps "Alexa Custom Skill using Python and AWS")
+[!Alexa Custom Skill using Python and AWS[](http://img.youtube.com/vi/WbIyr3hq5Ps/0.jpg)](http://www.youtube.com/watch?v=WbIyr3hq5Ps "Alexa Custom Skill using Python and AWS")
